@@ -1,0 +1,46 @@
+body {
+    background-color:#E6E6FA;
+}
+
+h1{
+    color: maroon;
+    font-size:55px;
+    text-align: center;
+}
+
+p{
+    font-size:35px;
+    text-align:justify;
+}
+
+ul li {
+    margin-bottom: 15px;
+}
+
+.passeio{
+    border-radius: 10px 20px;
+    margin-bottom: 5px;
+
+
+}
+.bandeira{
+    border-radius: 10px 20px;
+    width:75px ;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+
+.tabela, th, td{
+    padding: 9px;
+    border-collapse: collapse;
+    text-align: left;
+    border: 2px solid ;
+}
+
+.link:hover{
+    color:red
+}
+
+div{
+    padding: 6px;
+}
